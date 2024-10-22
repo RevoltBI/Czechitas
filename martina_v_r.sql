@@ -1,6 +1,5 @@
 select
    name,
    surname,
-   person_id,
-   age
+   person_id
 from customer
