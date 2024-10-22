@@ -1,7 +1,7 @@
 select
     name,
     surname,
+    person_id,
     age,
-    person_id
+    new_column
 from customer
-where ukol is Null
